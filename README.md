@@ -1,5 +1,5 @@
 # Miriya Mayenkar's Website
-### Hi, my name is Miriya and I'm a Bioengineering and Business student at UC Berkeley.
+##### Hi, my name is Miriya and I'm a Bioengineering and Business student at UC Berkeley.
 <hr>
  <img src="./IMG_1013 3.JPG" style="width:50%; margin:auto; display:block">
 
